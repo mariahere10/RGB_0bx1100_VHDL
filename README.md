@@ -11,9 +11,9 @@ Proyecto de Sistemas Electrónicos Digitales, UPM (ETSIDI), curso 2026-2027.
 
 ## Materiales
 
-- Placa FPGA Nexys 7.
-- Monitor de ordenador.
-- Cable VGA.
+- Placa FPGA Nexys 7
+- Monitor de ordenador
+- Cable VGA
 
 ## Equipo
 
